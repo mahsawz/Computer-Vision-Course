@@ -1,6 +1,6 @@
 # Computer-Vision-Course
 
-This repository contains my Computer Vision course homeworks. This course had fourteen homeworks and final project, which you can find it [here](https://github.com/mahsawz/License-Plate-Detection).
+This repository contains my Computer Vision course assignments. This course had fourteen assignments and a final project, which you can find it [here](https://github.com/mahsawz/License-Plate-Detection).
 
 - Introduction
 
